@@ -1,4 +1,4 @@
-# Episode 7 – Analog Write with Potentiometer
+# Episode 9 – Analog Write with Potentiometer
 
 ## 1. Objective
 
